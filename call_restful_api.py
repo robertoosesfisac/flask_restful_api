@@ -6,5 +6,7 @@ x= get('http://127.0.0.1:5000/model1',
 print(x)
 
 #TODO: Python code works, calls from the browser do not - error 400 - sthg related with request.form['name']
+
 #TODO: test curl works as well
+ 
 #TODO: test from POSTMAN as well
